@@ -1,0 +1,16 @@
+/dist/out-tsc
+/node_modules
+.bin
+.git
+.idea
+.idea/
+code-frame
+test_artifacts/trr/html
+test_artifacts/trr/json
+package-lock.json
+files/downloads
+files/extracted
+files/transfer/applicantInfo.json
+debug.log
+.vscode
+node_modules
